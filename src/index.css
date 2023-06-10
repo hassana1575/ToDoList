@@ -1,0 +1,74 @@
+/* body { */
+  /* background-color: black; */
+  /* background-image: url("C:\Users\SPIDY\Desktop\MERN PROJECTS\task3\task3\src\assets\Black-and-white-man-person-hands_(24243824281).jpg"); */
+  /* background-clip: ;
+  background-size: cover;
+	background-position: center;
+  background-attachment: fixed;
+  background-size: 100% 100%; */
+  
+  /* margin: 0 auto;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale; */
+/* } */
+
+/* code {
+  
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+} */
+
+.todo {
+  cursor: pointer;
+}
+.strike {
+  text-decoration: line-through;
+}
+/* .background-video {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+  /* object-fit: cover; */
+  /* background-size: cover; */
+	/* background-position: center; */
+  /* background-attachment: fixed; */
+  /* background-size: 100% 100%; */
+
+  /* display: flex; */
+  /* justify-content: center; */
+  /* align-items: center; */
+  
+
+
+/* } */
+
+/* .background-video video {
+  object-fit: cover;
+} */ 
+ /* .fixed-background-video {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+
+.background-video {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  min-width: 100%;
+  min-height: 100%;
+  width: auto;
+  height: auto;
+  z-index: -1;
+} */
+
